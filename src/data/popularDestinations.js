@@ -16,7 +16,7 @@ export default [
     {
       city: "Chicago",
       averagePrice: 130,
-      propertyCount: 115,
+      propertyCount: 15,
       imageUrl: "/img/chicago.jpg",
       imageAlt: "Chicago skyline",
     },
