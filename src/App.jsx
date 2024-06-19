@@ -4,7 +4,7 @@ import DestinationCrad from "./components/DestinationCrad";
 export default function App() {
   let destinations = popularDestinations;
   return (
-    <div>
+    <div className="bg-white">
       <div className="bg-gray-100 lg:grid lg:grid-cols-2 2xl:grid-cols-5">
         <div className="px-8 py-12 max-w-md mx-auto sm:max-w-xl lg:px-12 lg:py-24 lg:max-w-full xl:mr-0 2xl:col-span-2">
           <div className="xl:max-w-xl">
